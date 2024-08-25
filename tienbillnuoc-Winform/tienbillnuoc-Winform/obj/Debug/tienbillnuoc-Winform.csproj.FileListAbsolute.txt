@@ -1,0 +1,11 @@
+D:\Seconchance Programing\tienbillnuoc-Winform\tienbillnuoc-Winform\bin\Debug\tienbillnuoc-Winform.exe.config
+D:\Seconchance Programing\tienbillnuoc-Winform\tienbillnuoc-Winform\bin\Debug\tienbillnuoc-Winform.exe
+D:\Seconchance Programing\tienbillnuoc-Winform\tienbillnuoc-Winform\bin\Debug\tienbillnuoc-Winform.pdb
+D:\Seconchance Programing\tienbillnuoc-Winform\tienbillnuoc-Winform\obj\Debug\tienbillnuoc-Winform.csproj.AssemblyReference.cache
+D:\Seconchance Programing\tienbillnuoc-Winform\tienbillnuoc-Winform\obj\Debug\tienbillnuoc_Winform.Form1.resources
+D:\Seconchance Programing\tienbillnuoc-Winform\tienbillnuoc-Winform\obj\Debug\tienbillnuoc_Winform.Form2.resources
+D:\Seconchance Programing\tienbillnuoc-Winform\tienbillnuoc-Winform\obj\Debug\tienbillnuoc_Winform.Properties.Resources.resources
+D:\Seconchance Programing\tienbillnuoc-Winform\tienbillnuoc-Winform\obj\Debug\tienbillnuoc-Winform.csproj.GenerateResource.cache
+D:\Seconchance Programing\tienbillnuoc-Winform\tienbillnuoc-Winform\obj\Debug\tienbillnuoc-Winform.csproj.CoreCompileInputs.cache
+D:\Seconchance Programing\tienbillnuoc-Winform\tienbillnuoc-Winform\obj\Debug\tienbillnuoc-Winform.exe
+D:\Seconchance Programing\tienbillnuoc-Winform\tienbillnuoc-Winform\obj\Debug\tienbillnuoc-Winform.pdb
